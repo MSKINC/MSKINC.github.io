@@ -1,0 +1,6 @@
+~ $ git clone https://github.com/MSKINC/MSKINC.github.io
+~ $ cd MSKINC.github.io
+~ $ echo "hello World" > index.html
+~ $ git add --all
+~ $ git commit -m "initial commit"
+~ $ git push -u origin main
